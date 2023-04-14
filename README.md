@@ -1,6 +1,6 @@
 ### Hi there, I'm Tracey 👋
 
-I'm a <b>full-stack software engineer<b> who is an eager learner and a passionate problem solver. Since being accepted to Code in Place in 2020, I have fallen in love with the process of coding -- everything from breaking down problems, to debugging code and finally seeing how everything comes together. I’m excited to explore all that this field has to offer and continue growing as a software engineer.
+I'm a full-stack software engineer who is an eager learner and a passionate problem solver. Since being accepted to Code in Place in 2020, I have fallen in love with the process of coding -- everything from breaking down problems, to debugging code and finally seeing how everything comes together. I’m excited to explore all that this field has to offer and continue growing as a software engineer.
 
 - 🌱 I’m currently learning: React Redux
 - 📫 How to reach me: traceychungdev@gmail.com
